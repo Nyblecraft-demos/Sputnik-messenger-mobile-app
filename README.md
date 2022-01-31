@@ -1,6 +1,6 @@
 # sputnik
 
-BT Massager
+Sputnik-1 messenger
 
 More than just a messenger!
 The modular platform Sputnik-1 — is a unique IT product tailored to the current demands of users concerning online communications. The application is free, safe, user-friendly and suitable for people of all ages and abilities.
