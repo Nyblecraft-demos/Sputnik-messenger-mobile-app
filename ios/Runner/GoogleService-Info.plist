@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>686265995278-49fm2qh8ubdl20tacstn1mudr12akaua.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.686265995278-49fm2qh8ubdl20tacstn1mudr12akaua</string>
+	<key>API_KEY</key>
+	<string>AIzaSyArleFjcwVP1q24UaCffkMx-oDKKQT2X88</string>
+	<key>GCM_SENDER_ID</key>
+	<string>686265995278</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sputnik.messenger</string>
+	<key>PROJECT_ID</key>
+	<string>technology-blockchein</string>
+	<key>STORAGE_BUCKET</key>
+	<string>technology-blockchein.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:686265995278:ios:95f3cfcd13fcbfeff22c5f</string>
+</dict>
+</plist>

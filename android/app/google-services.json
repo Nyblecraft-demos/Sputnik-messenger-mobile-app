@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "686265995278",
+    "project_id": "technology-blockchein",
+    "storage_bucket": "technology-blockchein.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686265995278:android:f9820d9a0b2df24af22c5f",
+        "android_client_info": {
+          "package_name": "com.sputnik.messenger"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "686265995278-55sipq9r6mka84f46kop0ulmqbn2b3u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNTe8hn-22TFK1NKbHNo89p6UY-xeMX6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "686265995278-55sipq9r6mka84f46kop0ulmqbn2b3u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
