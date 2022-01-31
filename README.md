@@ -2,15 +2,31 @@
 
 BT Massager
 
-## Getting Started
+More than just a messenger!
+The modular platform Sputnik-1 — is a unique IT product tailored to the current demands of users concerning online communications. The application is free, safe, user-friendly and suitable for people of all ages and abilities.
 
-This project is a starting point for a Flutter application.
+Convenience and modular integration of extra features give Sputnik a competitive edge. The application can be used as a messenger or can be turned into a generic platform. Its uncluttered layout allows each user to tailor the application to the individual needs.
 
-A few resources to get you started if this is your first Flutter project:
+Chat and earn! With the help of the Sputnik messenger, you can literally monetize your social activity
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Chat, send files and call other users
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Find business partners, investors and specialists
+
+Share your gallery and sell your creations in NFT
+
+Meet people and start a relationship
+
+Listen and share music
+
+Store and transfer cryptocurrency
+
+Security and privacy
+To protect user data and ensure the privacy of correspondence, the initial version of the Sputnik-1 messenger uses the end-to-end encryption system E3Kit by Virgil Security. This company has proven itself in the development of multiple cryptographic solutions for both individual developers and businesses. All Virgil Security SDKs are open and available for use
+
+Asymmetric encryption. Each user is provided with a private and public key, which enables the data security by end-to-end encryption.
+Sputnik grants an opportunity to access the system through multiple devices on iOS/Android/web browsers while using the single private decryption key.
+Encryption and decryption of data are done on the client-side. Thus, your data cannot be intercepted by anyone, including hackers, third-party developers and members of internal teams.
+The private key can be restored through the verification system via secret questions and answers
+Data signature and verification takes place within encryption and decryption functions. The data originates from the user that has encrypted it, and it can not be altered in transit or storage.
+We note that the E3Kit system is a temporary solution. We are currently developing our own SDK for end-to-end encryption.
